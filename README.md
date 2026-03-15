@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 A modern, responsive portfolio website built with React and Vite.
@@ -103,3 +104,6 @@ portfolio-website/
 ## License
 
 MIT License - feel free to use this template for your own portfolio!
+=======
+# Portfolio
+>>>>>>> 19215005600567e0f80a8077f2cdad85a8946ca8
